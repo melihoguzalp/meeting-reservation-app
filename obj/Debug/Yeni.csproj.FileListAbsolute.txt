@@ -1,0 +1,26 @@
+c:\users\wio\source\repos\Yeni\Yeni\bin\Debug\Yeni.exe.config
+c:\users\wio\source\repos\Yeni\Yeni\bin\Debug\Yeni.exe
+c:\users\wio\source\repos\Yeni\Yeni\bin\Debug\Yeni.pdb
+c:\users\wio\source\repos\Yeni\Yeni\obj\Debug\Yeni.csprojAssemblyReference.cache
+c:\users\wio\source\repos\Yeni\Yeni\obj\Debug\Yeni.Form1.resources
+c:\users\wio\source\repos\Yeni\Yeni\obj\Debug\Yeni.Properties.Resources.resources
+c:\users\wio\source\repos\Yeni\Yeni\obj\Debug\Yeni.csproj.GenerateResource.cache
+c:\users\wio\source\repos\Yeni\Yeni\obj\Debug\Yeni.csproj.CoreCompileInputs.cache
+c:\users\wio\source\repos\Yeni\Yeni\obj\Debug\Yeni.exe
+c:\users\wio\source\repos\Yeni\Yeni\obj\Debug\Yeni.pdb
+c:\users\wio\source\repos\Yeni\Yeni\obj\Debug\Yeni.Form2.resources
+c:\users\wio\source\repos\Yeni\Yeni\obj\Debug\Yeni.Form3.resources
+C:\Users\WIO\source\repos\Yeni\Yeni\obj\Debug\Yeni.Form4.resources
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\bin\Debug\Yeni.exe.config
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\bin\Debug\Yeni.exe
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\bin\Debug\Yeni.pdb
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\obj\Debug\Yeni.csprojAssemblyReference.cache
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\obj\Debug\Yeni.Form1.resources
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\obj\Debug\Yeni.Form2.resources
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\obj\Debug\Yeni.Form3.resources
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\obj\Debug\Yeni.Form4.resources
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\obj\Debug\Yeni.Properties.Resources.resources
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\obj\Debug\Yeni.csproj.GenerateResource.cache
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\obj\Debug\Yeni.csproj.CoreCompileInputs.cache
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\obj\Debug\Yeni.exe
+C:\Users\WIO\Desktop\staj defteri\Yeni klasör (2)\Yeni\Yeni\obj\Debug\Yeni.pdb
